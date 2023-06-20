@@ -12,3 +12,11 @@
 * [PyPI](https://pypi.org/project/uniquer/)
 * [Sources](https://github.com/nbiotcloud/uniquer)
 * [Issues](https://github.com/nbiotcloud/uniquer/issues)
+
+## Installation
+
+Installing it is pretty easy:
+
+```bash
+pip install uniquer
+```
