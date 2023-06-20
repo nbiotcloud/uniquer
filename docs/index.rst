@@ -1,13 +1,10 @@
 Unique Iteration
 ================
 
-TODO
-
-.. toctree::
-   :maxdepth: 1
-
-   api/uniquer
-
+.. automodule:: uniquer
+   :members:
+   :undoc-members:
+   :show-inheritance:
 
 Indices and tables
 ==================

@@ -22,7 +22,11 @@
 # SOFTWARE.
 #
 """
-Unique Iteration.
+Unique Iteration Utilities.
+
+* :any:`unique` - Unique Iterator
+* :any:`uniquetuple` - Create tuple with unique elements
+* :any:`uniquelist` - Create list with unique elements
 """
 
 
