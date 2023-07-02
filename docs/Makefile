@@ -21,9 +21,10 @@ help:
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 # Quick HTML rebuild which skips generating the static files:
-quick-html: api Makefile
+quick-html: Makefile
 	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 api:
-	sphinx-apidoc --output-dir api .. ../docs ../tests $(wildcard ../*.py) $(APIOPTS)
+	sphinx-apidoc --output-dir api .. ../uniquer/cli ../docs ../tests $(wildcard ../*.py) $(APIOPTS)
+	rm api/uniquer.rst
 .PHONY: api
