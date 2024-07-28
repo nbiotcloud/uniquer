@@ -24,7 +24,7 @@
 
 [tool.poetry]
 name = "uniquer"
-version = "1.0.3"
+version = "1.0.5"
 description = "Unique Iteration"
 readme = "README.md"
 license = "MIT"
