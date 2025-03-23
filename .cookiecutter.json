@@ -1,0 +1,13 @@
+{
+    "cookiecutter": {
+    "_checkout": null,
+    "_output_dir": "/Users/iccode17/projects",
+    "_repo_dir": "python-template",
+    "_template": "python-template",
+    "name": "uniquer",
+    "snake_name": "uniquer",
+    "title": "Unique Iteration",
+    "user": "nbiotcloud",
+    "year": "2023"
+}
+}

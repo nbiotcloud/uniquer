@@ -1,7 +1,7 @@
 #
 # MIT License
 #
-# Copyright (c) 2023 nbiotcloud
+# Copyright (c) 2023-2025 nbiotcloud
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -23,10 +23,6 @@
 #
 """
 Unique Iteration Utilities.
-
-* :any:`unique` - Unique Iterator
-* :any:`uniquetuple` - Create tuple with unique elements
-* :any:`uniquelist` - Create list with unique elements
 """
 
 
